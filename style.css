@@ -1,4 +1,19 @@
 
 .collum {
-  background: yellow;
+  background: rgb(233,236,239);
+  border-radius: 25px;
+  border: 1px solid #73AD21;
+  padding: 20px;
+}
+
+.nav {
+  margin-bottom: 32px;
+}
+
+img {
+  display: block;
+  border-radius: 50%;
+  margin: auto;
+  width: 60%;
+  height: auto;
 }
