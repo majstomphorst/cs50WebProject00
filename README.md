@@ -1,4 +1,3 @@
-				Web Programming with Python and JavaScript
 # Project 00: Homepage
 
 ##Objectives
@@ -53,3 +52,6 @@ Note that not all of the above requirements are covered in Lecture 0, some will 
 
 ### How to submit
 comming Soon
+
+## links
+- [Project requirements](https://docs.cs50.net/web/2018/w/projects/0/project0.html)
