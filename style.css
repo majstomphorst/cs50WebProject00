@@ -17,7 +17,7 @@ body {
 .collum {
   background: rgb(233,236,239);
   border-radius: 25px;
-  border: 1px solid #d89253;
+  border: 1px solid #ef5026;
   padding: 20px;
 }
 
@@ -27,6 +27,7 @@ body {
 
 img {
   display: block;
+  border:1px solid #ef5026;
   border-radius: 50%;
   margin: auto;
   width: 60%;
