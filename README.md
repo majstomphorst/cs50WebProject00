@@ -1,10 +1,10 @@
 # Project 00: Homepage
 
-##Objectives
+## Objectives
 - Become more comfortable with HTML and CSS to design and style webpages. 
 - Learn to use SCSS to write more complex stylesheets for your webpages.
 
-##Getting started
+## Getting started
 ### Your First Webpage
 Download the distro code for this project from <https://cdn.cs50.net/web/2018/spring/projects/0/project0.zip> and unzip `project0.zip`, which should yield a directory called `project0`.
 
